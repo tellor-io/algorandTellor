@@ -4,6 +4,8 @@
 # Overview
 This repo contains the contracts, tests, and deployment scripts for Tellor contracts on Algorand. The high-level goal of Tellor on Alogrand is to reimplement Tellor on Algorand's smart contract system, the Algorand Virtual Machine (AVM), and enable the Algorand community to interact with Tellor in their native environment. Its closest Solidity equivalent is [TellorFlex](https://github.com/tellor-io/tellorFlex), which is the Tellor contract for non-mainnet-Ethereum EVM chains.
 
+For a sample DeFi contract you can deploy to test reading Tellor, click [here](https://github.com/tellor-io/sampleUsingAlgorandTellor/)
+
 For more in-depth information about Tellor checkout our [documentation](https://docs.tellor.io/tellor/), [whitepaper](https://docs.tellor.io/tellor/whitepaper/introduction) and [website](https://tellor.io/).
 
 # Key Features
